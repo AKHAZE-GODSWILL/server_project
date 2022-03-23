@@ -1,0 +1,26 @@
+{
+  "name": "server_project",
+  "version": "1.0.0",
+  "description": "Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKHAZE-GODSWILL/server_project.git"
+  },
+  "keywords": [],
+  "author": "Akhaze Godswill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKHAZE-GODSWILL/server_project/issues"
+  },
+  "homepage": "https://github.com/AKHAZE-GODSWILL/server_project#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
